@@ -1,0 +1,75 @@
+#app_grid {
+  layout: grid;
+  grid-size: 2;  /* two columns */
+  grid-columns: 1fr 4fr;
+  grid-rows: 1fr;
+}
+
+
+#left_cnt {
+  /* width: 1fr; */
+  height: 100%;
+  /* border: solid rgb(221, 196, 5); */
+}
+
+#right_cnt {
+  /* width: 3fr; */
+  height: 100%;
+  /* border: solid rgb(221, 196, 5); */
+}
+
+#upper_cnt {
+  height: 3fr;
+  /* border: solid rgb(221, 196, 5); */
+}
+
+#feedback_table {
+  height: 1fr;
+  border: solid rgb(221, 196, 5);
+}
+
+#cal_table {
+  height: 7fr;
+  border: solid rgb(221, 196, 5);
+}
+
+#pt_table {
+  width: 1fr;
+  border: solid rgb(221, 196, 5);
+}
+
+#enc_table {
+  width: 1fr;
+  border: solid rgb(221, 196, 5);
+}
+
+#notes {
+  width: 1fr;
+  height: 100%;
+  border: solid rgb(221, 196, 5);
+}
+
+#search {
+  height: 1fr;
+  border: solid rgb(221, 196, 5);
+}
+
+#pt_add_cnt {
+  height: 3fr;
+  border: solid rgb(221, 196, 5);
+}
+
+#payments_cnt {
+  height: 1fr;
+  border: solid rgb(221, 196, 5);
+}
+
+/* .left_btm {
+  width: 2fr;
+  border: solid rgb(221, 196, 5);
+}
+
+.left_btm_btn {
+  width: 1fr;
+  border: solid rgb(221, 196, 5);
+} */
